@@ -3,11 +3,11 @@
 
 </br></br>
 
-<p align="center"> - 🔭 I’m currently working on [NextJs Starter Template](https://github.com/NMenzel/nextJs-starter)</p>
-<p align="center"> - 👀 I’m interested in **software patterns, fintech, webapps and websecurity**</p>
-<p align="center"> - 🌱 I’m currently learning **developing microservices on Google Cloud**</p>
-<p align="center"> - 💞️ I’m looking to collaborate on **open source projects**</p>
-<p align="center"> - 💬 Ask me about **software -architecture, -development and -security**</p>
+- 🔭 I’m currently working on [NextJs Starter Template](https://github.com/NMenzel/nextJs-starter)
+- 👀 I’m interested in **software patterns, fintech, webapps and websecurity**
+- 🌱 I’m currently learning **developing microservices on Google Cloud**
+- 💞️ I’m looking to collaborate on **open source projects**
+- 💬 Ask me about **software -architecture, -development and -security**
 
 </br>
 
