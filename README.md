@@ -62,31 +62,6 @@ I am rebuilding my public GitHub portfolio with projects that demonstrate:
 - Self-hosted automation and infrastructure tooling
 - Security-aware deployment and infrastructure practices
 
-## 📌 Selected work in progress
-
-### AI Engineering Enablement Lab
-
-A practical repository showing how a development team can use GenAI across the software lifecycle: prompting standards, review workflows, generated tests, documentation assistance, and CI/CD quality checks.
-
-The focus is not on replacing developers with AI, but on showing how experienced engineers can use AI to improve delivery while keeping ownership over quality, architecture, and security.
-
-### MCP Engineering Context Server
-
-A small Model Context Protocol server that exposes project-specific engineering standards, review checklists, coding guidelines, and contextual documentation to AI coding assistants.
-
-The goal is to reduce generic AI output by giving assistants access to team-specific rules for code quality, testing, accessibility, and architecture.
-
-### Accessibility Audit Toolkit
-
-A frontend-focused toolkit for documenting accessibility findings, mapping issues to WCAG criteria, and turning technical findings into actionable remediation guidance.
-
-### Self-Hosted Automation Lab
-
-A collection of notes, workflows, and examples from my VPS-based automation setup, including n8n workflows, bot automation, Docker deployments, open-source tooling, and security-conscious infrastructure practices.
-
-### Production Frontend Starter
-
-A clean Next.js/TypeScript starter focused on maintainable architecture, accessibility, testing, linting, developer experience, and CI/CD quality gates.
 
 ## ⚙️ Tech stack
 
