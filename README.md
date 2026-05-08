@@ -11,27 +11,8 @@ I build maintainable web applications with TypeScript, React, Next.js, and moder
 - AI-assisted development workflows with Claude Code, GitHub Copilot, review agents, prompt templates, and documentation assistants
 - Responsible AI usage: human review, clear specifications, test coverage, security awareness, and architectural consistency
 - Accessibility-first engineering based on WCAG, semantic HTML, keyboard support, and robust UX patterns
-- Developer enablement through guidelines, playbooks, pairing, code reviews, and structured feedback
 - Self-hosted infrastructure, automation workflows, bots, and open-source tooling
 - Cybersecurity fundamentals for securing VPS-based infrastructure and self-hosted applications
-
-## 🧠 Engineering principles
-
-I care about software that is understandable, maintainable, and safe to evolve.
-
-My engineering approach is based on:
-
-- Clear separation of concerns
-- Small, focused components and services
-- Strong typing and explicit interfaces
-- Clever & readable code
-- Automated tests where they create real confidence
-- CI/CD quality gates
-- Security-conscious implementation
-- Accessibility by default
-- AI-assisted workflows with human ownership and review
-
-AI can speed up development, but it does not remove the need for engineering discipline. I treat AI-generated code as untrusted until it has been reviewed for correctness, maintainability, security, edge cases, and architectural fit.
 
 ## 🛠️ Self-hosted infrastructure
 
@@ -49,18 +30,6 @@ Currently, it includes projects and services such as:
 - Access control, environment configuration, backups, and operational monitoring
 
 This setup helps me stay hands-on with automation, infrastructure, deployment workflows, cybersecurity basics, and the operational side of modern software systems.
-
-## 🚀 Current portfolio direction
-
-I am rebuilding my public GitHub portfolio with projects that demonstrate:
-
-- AI-assisted software delivery workflows
-- Production-oriented TypeScript/React codebases
-- Accessibility-focused frontend engineering
-- Practical developer enablement material
-- Code quality, testing, documentation, and CI/CD quality gates
-- Self-hosted automation and infrastructure tooling
-- Security-aware deployment and infrastructure practices
 
 
 ## ⚙️ Tech stack
