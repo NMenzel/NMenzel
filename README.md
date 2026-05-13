@@ -1,6 +1,6 @@
 # Hi, I'm Niklas 👋
 
-Senior Software Engineer focused on frontend architecture, accessibility, AI-assisted software delivery, and pragmatic engineering systems.
+Senior Software Engineer from Germany focused on frontend architecture, accessibility, AI-assisted software delivery, and pragmatic engineering systems.
 
 I build maintainable web applications with TypeScript, React, Next.js, and modern engineering practices. My current focus is using GenAI tools to improve real software delivery without weakening code quality, testing, security, review standards, or team ownership. I also like to experiment & build staff with self-hosted infrastructure on my VPS
 
