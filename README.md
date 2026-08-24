@@ -8,7 +8,7 @@ I build maintainable web applications with TypeScript, React, Next.js, and moder
 Most of my recent engineering work has happened in private company, client, and business repositories.
 
 I’m currently publishing selected proof-of-work around:
-- Frontend architecture with TypeScript, React, Next.js, and component-driven systems
+- Fullstack architecture with TypeScript, React, Next.js, Supabase and Node.js
 - Clean Code, maintainable architecture, testing, CI/CD, and pragmatic engineering standards
 - AI-assisted development workflows with Claude Code, GitHub Copilot, review agents, prompt templates, and documentation assistants
 - Responsible AI usage: human review, clear specifications, test coverage, security awareness, and architectural consistency
@@ -21,9 +21,7 @@ I’m currently publishing selected proof-of-work around:
 I maintain a private VPS as a practical engineering lab for automation, AI workflows, self-hosted tools, and infrastructure security.
 
 Currently, it includes projects and services such as:
-
 - n8n for workflow automation and process orchestration
-- ClawDBot for custom bot-based automation
 - HermesBot for personal and project-specific automation workflows
 - Self-hosted open-source software for experimentation, productivity, and infrastructure learning
 - Docker-based deployments and service management
@@ -32,19 +30,8 @@ Currently, it includes projects and services such as:
 - Access control, environment configuration, backups, and operational monitoring
 
 This setup helps me stay hands-on with automation, infrastructure, deployment workflows, cybersecurity basics, and the operational side of modern software systems.
-
-
-## ⚙️ Tech stack
-
-**Frontend:** TypeScript, React, Next.js, Tailwind CSS  
-**Testing:** Jest, Playwright, React Testing Library  
-**Engineering:** Clean Code, SOLID, CI/CD, GitHub Actions, Docker, Design Systems  
-**Infrastructure:** VPS, Docker, reverse proxy, self-hosted open-source tools, automation workflows  
-**Security:** infrastructure hardening, access control, HTTPS, secrets handling, secure configuration basics  
-**AI Engineering:** Claude Code, Codex, GitHub Copilot, MCP, prompt workflows, AI-assisted review  
-**Accessibility:** WCAG, semantic HTML, keyboard navigation, ARIA, screen-reader-aware implementation
-
 I use AI as an engineering accelerator, not as a replacement for engineering judgment. My work is grounded in clean code, maintainable architecture, explicit quality criteria, and careful review of AI-assisted output.
 
 ## 📬 Contact
 - LinkedIn: [My Profile](https://www.linkedin.com/in/niklas-menzel-sandic2/)
+- Website: [My Website](https://www.nmenzel.dev)
