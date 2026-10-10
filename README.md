@@ -1,4 +1,4 @@
-# Hi, I'm Niklas 👋
+# Hi, I'm Niklas 👋👾
 
 Senior Software Engineer from Germany focused on fullstack architecture, accessibility, AI-assisted software delivery, and smart engineering systems.
 
